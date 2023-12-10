@@ -1,6 +1,6 @@
-<h1 align="center"><img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Toki Pona' />
+<h1 align="center"><img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Esperanto Flag' />
 Free Esperanto Books
-<img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Toki Pona' />
+<img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Esperanto Flag' />
 </h1>
 
 <h2 align="center">Katalogo de senpagaj Esperantaj libroj</h2>
