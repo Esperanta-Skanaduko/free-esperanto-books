@@ -22,4 +22,4 @@ Thanks a lot for contributing to Free Esperanto Books.
 Give a ⭐ to show support for the project.
 
 ## License
-[![GitHub license](https://img.shields.io/github/license/Esperanta-Skanaduko/free-esperanto-books)]
+![GitHub license](https://img.shields.io/github/license/Esperanta-Skanaduko/free-esperanto-books)
