@@ -1,4 +1,8 @@
-# Free Esperanto Books
+<h1 align="center"><img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Toki Pona' />
+Free Esperanto Books
+<img src='./images/Flag_of_Esperanto.png' width='50' height='30' align='center' alt='Toki Pona' />
+</h1>
+
 
 Katalogo de senpagaj Esperantaj libroj
 
