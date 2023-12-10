@@ -2,6 +2,13 @@
 
 Katalogo de senpagaj Esperantaj libroj
 
+## Table of Contents
+
+Books are categorized by language
+
+- [Czech](./books/czech/README.md)
+- [English](./books/english/README.md)
+- [Esperanto](./books/esperanto/README.md)
 
 ## Contributing
 
@@ -16,6 +23,8 @@ Katalogo de senpagaj Esperantaj libroj
 Thanks a lot for contributing to Free Esperanto Books.
 
 [![Contributors](https://contrib.rocks/image?repo=Esperanta-Skanaduko/free-esperanto-books)](https://github.com/Esperanta-Skanaduko/free-esperanto-books/graphs/contributors)
+
+Special thanks to [Project Gutenberg](https://www.gutenberg.org/) for providing free books.
 
 ## Your Support means a lot
 
