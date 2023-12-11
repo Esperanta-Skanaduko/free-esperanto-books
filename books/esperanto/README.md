@@ -28,6 +28,7 @@ Enhavtabelo
   - [Vivo de Zamenhof](#vivo-de-zamenhof)
 - [Shakespeare, William](#shakespeare-william)
   - [Hamleto, Reĝido de Danujo](#hamleto-reĝido-de-danujo)
+  - [Makbeto](#makbeto)
 - [Zamenhof, L. L. (Ludwik Lejzer)](#zamenhof-l-l-ludwik-lejzer)
   - [Dua Libro de l' Lingvo Internacia](#dua-libro-de-l-lingvo-internacia)
   - [Fundamenta Krestomatio](#fundamenta-krestomatio)
@@ -106,11 +107,11 @@ Enhavtabelo
 
 - [PDF](./Hamleto,%20Reĝido%20de%20Danujo.pdf)
 - [Source](https://www.gutenberg.org/ebooks/37279)
-<!-- 
+
 #### Makbeto
 
 - [PDF](./Makbeto.pdf)
-- [Source](https://www.gutenberg.org/ebooks/47913) -->
+- [Source](https://www.gutenberg.org/ebooks/47913)
 
 ### Zamenhof, L. L. (Ludwik Lejzer)
 
