@@ -3,7 +3,12 @@ Nederlandse boeken
 <img src='../../images/Flag_of_The_Netherlands.png' width='50' height='30' align='center' alt='Flag_of_The_Netherlands' />
 </h1>
 
-## Inhoudsopgave
+<h2 align="left">
+Inhoudsopgave
+</h2>
+
+- [Blok, A.](#blok-a)
+  - [Het Esperanto in Twintig Lessen](#het-esperanto-in-twintig-lessen)
 
 ### Blok, A.
 
