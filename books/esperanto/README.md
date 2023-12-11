@@ -9,6 +9,8 @@ Enhavtabelo
 
 - [Andersen, H. C. (Hans Christian)](#andersen-h-c-hans-christian)
   - [Fabeloj de Andersen](#fabeloj-de-andersen)
+- [Bates, Arlo](#bates-arlo)
+  - [Princo Vanc'](#princo-vanc)
 - [Baum, L. Frank (Lyman Frank)](#baum-l-frank-lyman-frank)
   - [La Mirinda Sorĉisto de Oz](#la-mirinda-sorĉisto-de-oz)
 - [Carroll, Lewis](#carroll-lewis)
@@ -19,6 +21,8 @@ Enhavtabelo
   - [Esperanta sintakso](#esperanta-sintakso)
 - [Goethe, Johann Wolfgang von](#goethe-johann-wolfgang-von)
   - [Ifigenio en Taŭrido](#ifigenio-en-taŭrido)
+- [Hauff, Wilhelm](#hauff-wilhelm)
+  - [La Kantistino](#la-kantistino)
 - [Maistre, Xavier de](#maistre-xavier-de)
   - [Vojaĝo interne de mia ĉambro](#vojaĝo-interne-de-mia-ĉambro)
 - [Orzeszkowa, Eliza](#orzeszkowa-eliza)
@@ -39,6 +43,13 @@ Enhavtabelo
 
 - [PDF](./Fabeloj%20de%20Andersen.pdf)
 - [Source](https://www.gutenberg.org/ebooks/27915)
+
+### Bates, Arlo
+
+#### Princo Vanc'
+
+- [PDF](./Princo%20Vanc'.pdf)
+- [Source](https://www.gutenberg.org/ebooks/23093)
 
 ### Baum, L. Frank (Lyman Frank)
 
@@ -74,6 +85,13 @@ Enhavtabelo
 
 - [PDF](./Ifigenio%20en%20Taŭrido.pdf)
 - [Source](https://www.gutenberg.org/ebooks/22592)
+
+### Hauff, Wilhelm
+
+#### La Kantistino
+
+- [PDF](./La%20Kantistino.pdf)
+- [Source](https://www.gutenberg.org/ebooks/24763)
 
 ### Maistre, Xavier de
 
