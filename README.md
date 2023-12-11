@@ -15,7 +15,8 @@ Free Esperanto Books
 
 Books are categorized by language
 
-- [Czech](./books/czech/README.md)
+- [Czech](./books/čeština/README.md)
+- [Dutch](./books/nederlands/README.md)
 - [English](./books/english/README.md)
 - [Esperanto](./books/esperanto/README.md)
 
