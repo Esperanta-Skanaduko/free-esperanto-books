@@ -31,7 +31,7 @@
 - [PDF](./The%20Esperanto%20Teacher%20A%20Simple%20Course%20for%20Non-Grammarians.pdf)
 - [Source](https://www.gutenberg.org/ebooks/8177)
 
-### Hayes, C. F. (Charles Frederic),
+### Hayes, C. F. (Charles Frederic)
 
   #### English-Esperanto Dictionary
 

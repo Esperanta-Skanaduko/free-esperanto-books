@@ -21,5 +21,38 @@
   "cSpell.words": [
     "Kellerman",
     "Mudie"
+  ],
+  "spellright.language": [
+    "en",
+    "es",
+    "it",
+    "cs",
+    "da",
+    "de",
+    "fr",
+    "hu",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "fi",
+    "sv",
+    "vi",
+    "tr",
+    "el",
+    "bg",
+    "ru",
+    "uk",
+    "he",
+    "ar",
+    "hi",
+    "pa",
+    "te",
+    "ko"
+  ],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext",
+    "markdown"
   ]
 }
