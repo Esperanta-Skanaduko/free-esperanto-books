@@ -23,6 +23,8 @@ Enhavtabelo
   - [Ifigenio en Taŭrido](#ifigenio-en-taŭrido)
 - [Hauff, Wilhelm](#hauff-wilhelm)
   - [La Kantistino](#la-kantistino)
+- [Kalocsay, K. (Kálmán)](#kalocsay-k-kálmán)
+  - [Mondo kaj koro](#mondo-kaj-koro)
 - [Maistre, Xavier de](#maistre-xavier-de)
   - [Vojaĝo interne de mia ĉambro](#vojaĝo-interne-de-mia-ĉambro)
 - [Orzeszkowa, Eliza](#orzeszkowa-eliza)
@@ -33,6 +35,8 @@ Enhavtabelo
 - [Shakespeare, William](#shakespeare-william)
   - [Hamleto, Reĝido de Danujo](#hamleto-reĝido-de-danujo)
   - [Makbeto](#makbeto)
+- [Stevenson, Robert Louis](#stevenson-robert-louis)
+  - [Doktoro Jekyll kaj Sinjoro Hyde](#doktoro-jekyll-kaj-sinjoro-hyde)
 - [Zamenhof, L. L. (Ludwik Lejzer)](#zamenhof-l-l-ludwik-lejzer)
   - [Dua Libro de l' Lingvo Internacia](#dua-libro-de-l-lingvo-internacia)
   - [Fundamenta Krestomatio](#fundamenta-krestomatio)
@@ -93,6 +97,13 @@ Enhavtabelo
 - [PDF](./La%20Kantistino.pdf)
 - [Source](https://www.gutenberg.org/ebooks/24763)
 
+### Kalocsay, K. (Kálmán)
+
+#### Mondo kaj koro
+
+- [PDF](./Mondo%20kaj%20koro.pdf)
+- [Source](https://www.gutenberg.org/ebooks/42774)
+
 ### Maistre, Xavier de
 
 #### Vojaĝo interne de mia ĉambro
@@ -130,6 +141,13 @@ Enhavtabelo
 
 - [PDF](./Makbeto.pdf)
 - [Source](https://www.gutenberg.org/ebooks/47913)
+
+### Stevenson, Robert Louis
+
+#### Doktoro Jekyll kaj Sinjoro Hyde
+
+- [PDF](./Doktoro%20Jekyll%20kaj%20Sinjoro%20Hyde.pdf)
+- [Source](https://www.gutenberg.org/ebooks/24145)
 
 ### Zamenhof, L. L. (Ludwik Lejzer)
 
