@@ -27,6 +27,8 @@ Enhavtabelo
   - [Mondo kaj koro](#mondo-kaj-koro)
 - [Maistre, Xavier de](#maistre-xavier-de)
   - [Vojaĝo interne de mia ĉambro](#vojaĝo-interne-de-mia-ĉambro)
+- [Möbusz, A. (Albin)](#möbusz-a-albin)
+  - [Dokumentoj de Esperanto](#dokumentoj-de-esperanto)
 - [Orzeszkowa, Eliza](#orzeszkowa-eliza)
   - [Marta](#marta)
 - [Privat, Edmond](#privat-edmond)
@@ -110,6 +112,13 @@ Enhavtabelo
 
 - [PDF](./Vojaĝo%20interne%20de%20mia%20ĉambro.pdf)
 - [Source](https://www.gutenberg.org/ebooks/25539)
+
+### Möbusz, A. (Albin)
+
+#### Dokumentoj de Esperanto
+
+- [PDF](./Dokumentoj%20de%20Esperanto.pdf)
+- [Source](https://www.gutenberg.org/ebooks/57184)
 
 ### Orzeszkowa, Eliza
 
