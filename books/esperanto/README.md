@@ -27,6 +27,8 @@ Enhavtabelo
   - [Mondo kaj koro](#mondo-kaj-koro)
 - [Maistre, Xavier de](#maistre-xavier-de)
   - [Vojaĝo interne de mia ĉambro](#vojaĝo-interne-de-mia-ĉambro)
+- [Twain, Mark](#twain-mark)
+  - [Mark Twain: Tri Noveloj](#mark-twain-tri-noveloj)
 - [Möbusz, A. (Albin)](#möbusz-a-albin)
   - [Dokumentoj de Esperanto](#dokumentoj-de-esperanto)
 - [Orzeszkowa, Eliza](#orzeszkowa-eliza)
@@ -112,6 +114,13 @@ Enhavtabelo
 
 - [PDF](./Vojaĝo%20interne%20de%20mia%20ĉambro.pdf)
 - [Source](https://www.gutenberg.org/ebooks/25539)
+
+### Twain, Mark
+
+#### Mark Twain: Tri Noveloj
+
+- [PDF](./Mark%20Twain%20Tri%20Noveloj.pdf)
+- [Source](https://www.gutenberg.org/ebooks/17945)
 
 ### Möbusz, A. (Albin)
 
